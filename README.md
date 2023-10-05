@@ -2,7 +2,7 @@
 
 This is the company's respository.
 
-Members are:
+The members are:
 - Adia Sakura-Lemessy
 - Logan Chambers
 - Jonathan "Jack" Balote
