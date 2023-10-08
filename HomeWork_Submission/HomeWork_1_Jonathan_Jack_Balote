@@ -1,0 +1,28 @@
+Software Engineering CSCI-4221 Section 01
+Dr. Wanjun Hu
+
+Homework 1, Submitted by:
+Jonathan “Jack” M. Balote
+
+Please answer the following questions:
+1.	What is a "use case"?
+•	Description of how a user will use the system to accomplish business goals. Use cases have summary descriptions and then move towards detailed descriptions that is very specific to the planned system.
+2.	What is a "user story"?
+•	User story or stories are gathered by the product manager from the customer. It is more of descriptions of ideas from customers on how they would use the product and its features. The user story will then be translated or interpreted by the product manager to connect going to the development team.
+3.	What is a feature?
+•	Feature is something that the software has and it maybe a nice to have feature or a main feature or functionality of the software or application which meets the customers needs. Features of the product could also be enhanced to become more efficient. 
+4.	What is a software service?
+•	Product offered by a company that is developed to meet the requirements and needs of its customers. These are software components that are accessing from remote computers over the internet. 
+5.	What is the product vision?
+•	Are simple statements that define the importance of the product to be developed. Product vision should be clear on what is the product to be developed, who are the target users or customers and what is the difference of this product from others, its benefits and why the customers should buy the product.
+6.	What is project-based software engineering?
+•	Project-based software engineering starts with gathering the requirements then will go to the development. It is also a custom software designed and developed to the customers needs and usually has a long-lifetime duration.
+7.	As a product manger, what is your major responsibility?
+•	Responsible for the product and also involved in planning phase, development phase and marketing. They are the interface of the software development team, the company and the product’s customers. Product managers are involved at all stages of the product’s life cycle. They also focus on clients and potential clients.
+8.	As a product manager, what will be your major technical interactions?
+•	As a product manager, the major technical interactions would be product backlog management, acceptance testing, customer testing and user interface design.
+9.	Why should you do product prototyping first?
+•	It is recommended that you build a prototype first and have a goal that it should be a working version to demonstrate its key features. It will help to identify components and test the technology. You might discover later that few components or features needs to be redesigned. 
+10.	What are the two-stage prototyping?
+•	Two stages of prototyping are feasibility demonstrations and customer demonstrations. Feasibility demonstrations is creating an working system that demonstrates the new ideas or features in your product. Customer demonstration is taking an existing prototype that was created to demonstrate feasibility and then extending few more ideas for the customer features. 
+

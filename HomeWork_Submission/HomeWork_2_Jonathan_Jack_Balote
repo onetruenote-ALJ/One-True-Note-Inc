@@ -1,0 +1,36 @@
+Software Engineering CSCI-4221 Section 01
+Dr. Wanjun Hu
+
+Homework 2, Submitted by:
+Jonathan “Jack” M. Balote
+
+Please answer the following questions:
+1.	What is the difference between project-based software engineering and product software engineering?
+* Project-based software engineering involves gathering software requirements. The company develops the software, the development team may be internal from the company or a contractor which is a separate company. The developed software usually lasts 10 years or more and the customer may change their requirements. The product software engineering identifies a business opportunity. Then the company designs and implements the software features, and the company is also responsible for making product change not the customer. 
+
+2.	What is Agile software engineering?
+* Agile software engineering is a method on developing and releasing the product to the market quickly, rapid development and delivery is important. It focuses on delivering functionality quickly. 
+
+3.	What are the Agile development principles?
+* Agile development principles involve the customer, embracing the change, developing, and delivering in increments, maintain simplicity and also focus on people, not the development process. 
+
+4.	What are five major characteristics of extreme programming?
+* Incremental planning/user stories, small releases, test-driven development, continuous integration, and refactoring.
+
+5.	What is the Scrum method?
+* Scrum is an agile methodology, and it provides framework for agile project organization and planning. In Scrum, there is no mandate for any specific technical practices. The team is self-organizing, and they work towards achieving a common goal. 
+
+6.	What is a product backlog item?
+* Product backlog items or PBI is a list of what needs to be done which may include different items. For example, product backlog may include features, user requests, important development activities and improvements. When working with PBI, always prioritize the items that are implemented first and at the top of the list.
+
+7.	What does "Scrum" refer to?
+* It is a daily meeting that may occur in anytime of the day, could be morning, afternoon, or evening, where the team review the progress and discuss the work to be done. Scrum is a short meeting or standing meeting, for about 10 minutes or 15 minutes.
+
+8.	What does "Sprint" refer to?
+* Sprint is a short period of two or four weeks, when software features are developed and delivered. Spring should produce a shippable product increment which means the developed software is complete and ready for deployment.  
+
+9.	What does product owner on a Scrum team do?
+* Product owner is a team member who is responsible for identifying the product features. Product owners also review the work completed and helps out to test the product. They make sure the development team are focused on the product they are developing. 
+
+10.	What does ScrumMaster do?
+* A person who is an expert and guides or coaches the team to effectively utilize the Scrum method. ScrumMaster is also involved in external interactions with the customers. 
