@@ -7,9 +7,9 @@
 This is the company's respository.
 
 The members are:
-- Adia Sakura-Lemessy
-- Logan Chambers
-- Jonathan "Jack" Balote
+- Adia Sakura-Lemessy (username: asakural)
+- Logan Chambers 
+- Jonathan "Jack" Balote (username: jbalote)
 
 
 ## Adding Minutes of Meeting:
