@@ -10,6 +10,7 @@ The members are:
 - Adia Sakura-Lemessy (username: asakural)
 - Logan Chambers 
 - Jonathan "Jack" Balote (username: jbalote)
+- Samariy Howard (username: MariyHow)
 
 
 ## Adding Minutes of Meeting:
