@@ -8,9 +8,9 @@ This is the company's respository.
 
 The members are:
 - Adia Sakura-Lemessy (username: asakural)
-- Logan Chambers 
 - Jonathan "Jack" Balote (username: jbalote)
-
+- Samariy Howard (username: mariyhow)
+- Logan Chambers 
 
 ## Adding Minutes of Meeting:
 ## Date: October 22, 2023
