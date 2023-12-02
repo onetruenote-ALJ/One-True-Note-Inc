@@ -31,3 +31,11 @@ The group is exploring option if the app can be integrated to another system, fo
 The group will continue working on app which has the primary feature of note taking and note organization.
 
 The group will explore Figma to work on a prototype.
+
+
+## Adding Minutes of Meeting:
+## Date: November 14, 2023
+
+Added another team member, Samariy Howard (github username: mariyhow)
+1) The group will review the product vision and product description.
+2) The group will make contribution as needed.
