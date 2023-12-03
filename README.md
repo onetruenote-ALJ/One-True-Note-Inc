@@ -39,3 +39,17 @@ The group will explore Figma to work on a prototype.
 Added another team member, Samariy Howard (github username: mariyhow)
 1) The group will review the product vision and product description.
 2) The group will make contribution as needed.
+
+## Adding Minutes of Meeting:
+## Date: November 28, 2023
+
+- Discussed current state of project
+  - Went over what had been done and what needed to be done next
+- Discussed how to handle project 3 requirements
+- Assigned issues to all teammates:
+  1. Write one persona description for each type of users that will use your software
+  2. Write one scenario for reach type of users that will use your software
+  3. Write one user story for each type of users that will use your software
+  4. Write features of your software that are derived from product vision
+  5. Write features of your software that are derived from user stories
+
